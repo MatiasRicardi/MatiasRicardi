@@ -6,15 +6,12 @@ I enjoy staying hands-on with code, designing systems, solving complex technical
 
 My main stack revolves around **Node.js, Go and Vue.js**, but I'm always experimenting with new technologies and building things that solve real problems
 
-Here you'll find some of my personal projects, experiments and developer tools
-
 ### What I enjoy working on
 
-- 🛠 Developer tools and automation
+- 🛠 Developer tools, automation and experimentation
 - ⚙️ Backend systems and APIs
 - 🏗 Software architecture
 - 👥 Technical leadership and mentoring
-- 🔬 Experimenting with new technologies
 
 ### Tech
 
